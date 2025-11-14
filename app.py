@@ -15,9 +15,9 @@ def main() -> None:
         layout="centered",
     )
 
-    st.title("📷 画像キャプション生成アプリ（Gemini Vision 100%版）")
+    st.title("📷 画像キャプション生成アプリ")
     st.write(
-        "Gemini Vision だけを用いて、画像の内容を英語・日本語の両方で説明します。\n"
+        "Gemini Vision を用いて、画像の内容を英語・日本語の両方で説明します。\n"
         "翻訳モデルや BLIP は使用せず、最速＆最自然なキャプションを返します。"
     )
 
