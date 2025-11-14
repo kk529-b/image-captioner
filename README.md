@@ -3,7 +3,7 @@
 このアプリは、Google Gemini の **Vision モデル**を利用して  
 **画像1枚から「英語キャプション」と「日本語キャプション」を同時生成する Web アプリ**です。
 
-- Visionモデル：**Gemini 2.53 Pro（Vision対応）**
+- Visionモデル：**Gemini 2.5 Pro（Vision対応）**
 - 入力：画像（JPG/PNG）
 - 出力：英語キャプション + 日本語キャプション
 - UI：Streamlit  
